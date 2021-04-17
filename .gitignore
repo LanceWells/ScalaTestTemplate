@@ -1,0 +1,11 @@
+# Output
+target/
+
+# Metals
+.metals/
+.bloop/
+.bsp/
+metals.sbt
+
+# VS Code
+.vscode/
